@@ -2,7 +2,7 @@ public class travel {
     
     //declare 2 travel places with 3 spaces each to store sum of each criteria ratings
     private static int[] penthouseKLCC = new int[3];
-    private static in[] hotelFalcon = new int[3];
+    private static int[] hotelFalcon = new int[3];
     
     //declare 3 rating criteria for each travel place with 8 guests to give ratings
     private static int[] cleanlinessPenthouseKLCC = new int[8];
