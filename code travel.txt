@@ -69,9 +69,9 @@ public class travel {
     //method to determine recommendation status for each travel place
     public static int status() {
         
-	String status1 = "Highly Recommended";
-	String status2 = "Somewhat Recommended";
-	String status3 = "Not Recommended";
+	String status1 = "This place is highly recommended";
+	String status2 = "This place is somewhat recommended";
+	String status3 = "This place is not recommended";
         
         if(sumPenthouseKLCC < 5)
             System.out.println("Penthouse KLCC is " + status3);
